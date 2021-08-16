@@ -9,10 +9,9 @@ The main branch was created on inital test success to provide something as a bas
 for further testing.
 
 # Service Under Test
-The API 
 The development team for a retail organization has built an API intended to be used for the maintenance of Stock Keeping Unit identifiers 
 (SKUs) which are used to identify and track the items the company has for sale. 
- 
+
 This API implements the basic CRUD operations: 
  
 Create and Update operations are through HTTP POSTs 
