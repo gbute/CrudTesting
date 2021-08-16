@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UnitTestProject1
+namespace CrudTests
 {
     public class Verbs
     {
